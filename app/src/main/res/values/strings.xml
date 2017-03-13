@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parcel Management</string>
+    <string name="apt_no_hint">Enter the apt number for the parcel</string>
+    <string name="apt_no_label">Apt No.</string>
+    <string name="arrival_date_label">Arrival Date</string>
+    <string name="received_by_label">Received by</string>
+    <string name="picked_label">Picked</string>
+    <string name="picked_by_label">Picked By</string>
+    <string name="picked_date_label">Picked Date</string>
+</resources>
